@@ -1,4 +1,4 @@
-# 🧠 Analisis Sentimen Ulasan Aplikasi PINTU CRYPTO Pada Google Play Store Menggunakan Support Vector Machine
+# Analisis Sentimen Ulasan Aplikasi PINTU CRYPTO Pada Google Play Store Menggunakan Support Vector Machine
 
 Proyek ini bertujuan untuk melakukan **analisis sentimen terhadap ulasan pengguna aplikasi PINTU Crypto** yang diambil dari **Google Play Store**.  
 Metode yang digunakan adalah **Support Vector Machine (SVM)** untuk mengklasifikasikan ulasan menjadi **sentimen positif dan negatif** berdasarkan teks ulasan pengguna.
