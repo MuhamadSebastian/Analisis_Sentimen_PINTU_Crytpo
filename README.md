@@ -36,7 +36,7 @@ File tambahan:
    Mengubah kata tidak baku menjadi bentuk baku menggunakan `kamuskatabaku.csv` (contoh: “gk” → “tidak”).  
 
 6. **Stemming**  
-   Mengembalikan kata ke bentuk dasarnya menggunakan library **Sastrawi**.  
+   Mengembalikan kata ke bentuk dasarnya menggunakan library **Sastrawi** (contoh: “menjual” → “jual”).  
 
 7. **Ekstraksi Fitur**  
    Menggunakan **TF-IDF Vectorizer** untuk mengubah teks menjadi vektor numerik.  
